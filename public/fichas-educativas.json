@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Dibujos de mascotas para dibujar fáciles",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/dibujos/infantil/",
+    "path": "fichas-educativas/dibujos/infantil/",
+    "tag1": " &#129409; ",
+    "tag2": "Infantil",
+    "tagColor": "tagInfantil",
+    "tipo": "dibujos",
+    "nivel": 1,
+    "column": 1
+  },
+  {
+    "name": "Sumas de una cifra",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/sumas/infantil/",
+    "path": "fichas-educativas/sumas/infantil/",
+    "tag1": "2 + 3",
+    "tag2": "Infantil",
+    "tagColor": "tagInfantil",
+    "tipo": "sumas",
+    "nivel": 1,
+    "column": 1
+  },
+  {
+    "name": "Sumas de dos cifras",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/sumas/1-primaria",
+    "path": "fichas-educativas/sumas/1-primaria",
+    "tag1": "20 + 5",
+    "tag2": "1º Primaria",
+    "tagColor": "tag1Primaria",
+    "tipo": "sumas",
+    "nivel": 2,
+    "column": 1
+  },
+  {
+    "name": "Sumas de dos cifras",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/sumas/2-primaria",
+    "path": "fichas-educativas/sumas/2-primaria",
+    "tag1": "40 + 25",
+    "tag2": "2º Primaria",
+    "tagColor": "tag2Primaria",
+    "tipo": "sumas",
+    "nivel": 3,
+    "column": 1
+  },
+  {
+    "name": "Restas de una cifra sin llevadas",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/restas/infantil",
+    "path": "fichas-educativas/restas/infantil",
+    "tag1": "5 - 2",
+    "tag2": "Infantil",
+    "tagColor": "tagInfantil",
+    "tipo": "restas",
+    "nivel": 1,
+    "column": 1
+  },
+  {
+    "name": "Restas de dos cifras sin llevadas",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/restas/1-primaria",
+    "path": "fichas-educativas/restas/1-primaria",
+    "tag1": "20 - 5",
+    "tag2": "1º Primaria",
+    "tagColor": "tag1Primaria",
+    "tipo": "restas",
+    "nivel": 2,
+    "column": 2
+  },
+  {
+    "name": "Restas de dos cifras sin llevadas",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/restas/2-primaria",
+    "path": "fichas-educativas/restas/2-primaria",
+    "tag1": "20 - 15",
+    "tag2": "2º Primaria",
+    "tagColor": "tag2Primaria",
+    "tipo": "restas",
+    "nivel": 3,
+    "column": 2
+  },
+  {
+    "name": "Multiplicaciones de una cifra",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/multiplicaciones/2-primaria",
+    "path": "fichas-educativas/multiplicaciones/2-primaria",
+    "tag1": "5 x 2",
+    "tag2": "2º Primaria",
+    "tagColor": "tag2Primaria",
+    "tipo": "multiplicaciones",
+    "nivel": 1,
+    "column": 2
+  },
+  {
+    "name": "Multiplicaciones de dos cifras",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/multiplicaciones/3-primaria",
+    "path": "fichas-educativas/multiplicaciones/3-primaria",
+    "tag1": "20 x 5",
+    "tag2": "3º Primaria",
+    "tagColor": "tag3Primaria",
+    "tipo": "multiplicaciones",
+    "nivel": 2,
+    "column": 2
+  },
+  {
+    "name": "Multiplicaciones de dos cifras",
+    "url": "https://app.webdelmaestro.com/fichas-educativas/multiplicaciones/4-primaria",
+    "path": "fichas-educativas/multiplicaciones/4-primaria",
+    "tag1": "40 x 35",
+    "tag2": "4º Primaria",
+    "tagColor": "tag4Primaria",
+    "tipo": "multiplicaciones",
+    "nivel": 3,
+    "column": 2
+  }
+]

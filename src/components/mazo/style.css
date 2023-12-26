@@ -1,0 +1,69 @@
+.sobre{
+  margin: 15px;
+  margin-top: 72px;
+  border: 4px #e1e1e1 solid;
+  border-radius: 5px;
+  width: 190px;
+  height: 235px;
+  
+}
+
+.mazo{
+    padding: 10px;
+    height: 80vh;
+    margin: 15px;
+    margin-top: 72px;
+    border-radius: 5px;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.carta{
+  padding: 5px;
+  border: 1px #8BC34A solid;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 120px;
+  height: 200px;
+  box-shadow: 0px 0px 4px 2px #ffffff;
+  margin: 10px;
+}
+
+.carta .stats{
+  margin-left: 5px;
+  color: white;
+  font-family: system-ui;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.hero-image {
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 100vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+  
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
